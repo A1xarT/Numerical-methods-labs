@@ -1,0 +1,9 @@
+*.doc*
+bin
+obj
+Properties
+*.config
+*.csproj
+*.sln
+*.7z
+.vs
