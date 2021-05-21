@@ -7,3 +7,4 @@ Properties
 *.sln
 *.7z
 .vs
+*.csv
